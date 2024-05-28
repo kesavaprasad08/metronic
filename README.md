@@ -20,9 +20,9 @@ Metronic is a web application built with React, Bootstrap, TypeScript Express.js
 ## Getting Started
 
 1. **Clone the repository**:
-
+    ```
     git clone https://github.com/kesavaprasad08/metronic.git
-
+    ```
 2. **Install dependencies**:
 
     ```
@@ -38,17 +38,21 @@ Metronic is a web application built with React, Bootstrap, TypeScript Express.js
 4. **Build and Run the Application**:
 
     - To build the backend and frontend:
-
+        ```
         npm run build
+        ```
 
     - To start the frontend server:
-
+        ```
         npm run dev
+        ```
 
     - To start the backend server:
 
+    ```
         cd backend
         npm start
+    ```
 
 5. **Access the Application**:
 
