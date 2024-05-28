@@ -25,9 +25,10 @@ Metronic is a web application built with React, Bootstrap, TypeScript Express.js
 
 2. **Install dependencies**:
 
+    ```
     cd metronic
-    
     npm install
+    ```
 
 3. **Set up MySQL Database**:
 
